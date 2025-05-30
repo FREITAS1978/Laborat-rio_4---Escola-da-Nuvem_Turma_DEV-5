@@ -24,12 +24,13 @@ Este projeto é um jogo simples de adivinhação de números, desenvolvido como 
 
 ## 🛠️ Tecnologias Utilizadas
 
-- [x] AWS Lambda
-- [x] API Gateway
-- [x] Amazon S3
-- [x] HTML / JavaScript no frontend
-- [x] Comunicação via JSON e HTTP
-- [x] IAM e políticas de bucket
+- [x] AWS Lambda – Backend com lógica em Python.
+- [x] API Gateway - Rota GET com integração ao Lambda.
+- [x] Amazon S3 – Frontend com "index.html" estático hospedado.
+- [x] CORS – Permissão para comunicação entre domínios.
+- [x] Comunicação via JSON e HTTP.
+- [x] IAM e políticas de bucket.
+- [x] GitHub – Código versionado com boas práticas.
 
 ---
 
