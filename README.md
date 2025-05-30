@@ -53,10 +53,10 @@ Este projeto é um jogo simples de adivinhação de números, desenvolvido como 
 
 | Etapa | Imagem |
 |------|--------|
-| Função Lambda | ![](prints/lambda.png) |
-| API Gateway | ![](prints/api_gateway.png) |
-| Bucket S3 | ![](prints/s3_bucket.png) |
-| Site Funcionando | ![](prints/site_funcionando.png) |
+| Função Lambda | ![ 1 Função_Lambda_Criada](https://github.com/user-attachments/assets/731b967f-335c-4184-bbfa-e6007f2548e6) |
+| API Gateway | ![ 2 API_Criada](https://github.com/user-attachments/assets/fa20f5ce-ea65-4f75-9fbf-0a8f5ca1b60a)  |
+| Bucket S3 | ![ 3 Bucket_Criado](https://github.com/user-attachments/assets/7ca849bc-3dac-4744-8925-b91ffc9d4491)  |
+| Site Funcionando | ![ 4 Site_Funcionando](https://github.com/user-attachments/assets/22b716ca-6cde-4e89-a8a0-ccfcef6482c0)  |
 | Publicação LinkedIn | ![](prints/linkedin_post.png) |
 
 ---
