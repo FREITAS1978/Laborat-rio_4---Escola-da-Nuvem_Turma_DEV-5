@@ -49,7 +49,7 @@ Este projeto é um jogo simples de adivinhação de números, desenvolvido como 
 
 ---
 
-## 🧪 Prints do Projeto (***************   Em Edição *************)
+## 🧪 Prints do Projeto
 
 | Etapa | Imagem |
 |------|--------|
