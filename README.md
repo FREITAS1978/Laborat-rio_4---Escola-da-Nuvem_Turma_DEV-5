@@ -1,4 +1,4 @@
-# Laboratório_Escola da Nuvem_Turma DEV-5 (************ Em edição ******************)
+# Laboratório_Escola da Nuvem_Turma DEV-5
 
 # 🎯 Jogo de Adivinhação Serverless com AWS Lambda, API Gateway e S3
 
@@ -57,6 +57,5 @@ Este projeto é um jogo simples de adivinhação de números, desenvolvido como 
 | API Gateway | ![ 2 API_Criada](https://github.com/user-attachments/assets/fa20f5ce-ea65-4f75-9fbf-0a8f5ca1b60a)  |
 | Bucket S3 | ![ 3 Bucket_Criado](https://github.com/user-attachments/assets/7ca849bc-3dac-4744-8925-b91ffc9d4491)  |
 | Site Funcionando | ![ 4 Site_Funcionando](https://github.com/user-attachments/assets/22b716ca-6cde-4e89-a8a0-ccfcef6482c0)  |
-| Publicação LinkedIn | ![](prints/linkedin_post.png) |
 
 ---
